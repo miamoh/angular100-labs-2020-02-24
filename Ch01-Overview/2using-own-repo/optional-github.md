@@ -13,7 +13,7 @@ These instructions will help you to setup a remote repository in GitHub that you
 
 
 4. In the menu that appears: 
-* name your new GitHub repository `MyAngularCourse`
+* name your new GitHub repository `MyAngularAlbums`
 * choose private 
 *  Leave the checkbox for **Initialize this repository with a README** unchecked
     ![New Repo Wizard](screenshots/new-repo-wizard.png)
@@ -24,7 +24,7 @@ These instructions will help you to setup a remote repository in GitHub that you
 ![](screenshots/git-add-origin.png)
 
 
-1.  and paste them into the command prompt in your my-angular-course directory.
+1.  and paste them into the command prompt in your my-angular-albums directory.
 ![](screenshots/git-add-remote.png)
 
 ### **Part 2 PUSHING CHANGES TO GITHUB**

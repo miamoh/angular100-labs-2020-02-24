@@ -27,7 +27,7 @@
 ### **Part 1: Create your own repository for your coursework**
 [back to top](#table-of-contents)
 
-You will create a repository called **my-angular-course**. It will be tracked by Git so that if you accidentally delete or change files you can recover them easily. (Later we will create a project inside called **my-angular-albums**.)
+You will create a repository called **my-angular-albums**. It will be tracked by Git so that if you accidentally delete or change files you can recover them easily. (Later we will create an Angular project inside)
 
 Additionally, and optionally, you will be able to connect your local repository to a remote GitHub repository. 
 
@@ -64,7 +64,7 @@ For example, you may be referring to a sample project and comparing to your own 
 
 VS Code allows use of control+c and control+v and corresponding context menu options to copy and paste files and directories between projects.  
 
-1. From the Command Prompt within your **my-angular-course** directory execute the command **code .** to open the project in VS Code. 
+1. From the Command Prompt within your **my-angular-albums** directory execute the command **code .** to open the project in VS Code. 
 
     ![add readme](screenshots/code-space-dot.png)
 
@@ -82,8 +82,8 @@ VS Code allows use of control+c and control+v and corresponding context menu opt
     * Angular100-labs 
     * Angular100-solutions
     * Angular100-demos
-    * MyAngularCourse (you will create in next Part) 
-    
+    * The work that you do in class
+  
 3. To use the extension, hit control+shift+p to bring up the command pallette and start typing Peacock.
    
    ![](screenshots/peacock-search.png)
@@ -102,7 +102,7 @@ VS Code allows use of control+c and control+v and corresponding context menu opt
 
 
 
-5. You should now have two instances of VS Code running. In your my-angular-course use Peacock to change the color to C# purple. 
+5. You should now have two instances of VS Code running. In your my-angular-albums use Peacock to change the color to C# purple. 
 
    1. Control+shift+p for command palette
    2. start typing peacock 
@@ -123,7 +123,7 @@ VS Code allows use of control+c and control+v and corresponding context menu opt
 
 4. In **Angular100-Labs** find the file license-agreement.txt from the same  directory as this README.md. Click to highlight the license-agreement.txt file and hit Control-C or right-click to choose copy.
    
-5. Switch back to your **my-angular-course** project and paste the file by right-clicking below your files and choosing paste.
+5. Switch back to your **my-angular-albums** project and paste the file by right-clicking below your files and choosing paste.
 
  ![](screenshots/right-click-paste.png)
 

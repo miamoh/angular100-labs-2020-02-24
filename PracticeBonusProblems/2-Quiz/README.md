@@ -4,7 +4,7 @@
 * Create a quiz page which uses hover event to reveal an answer
 
 ## Steps:
-1. In your my-angular-course directory create a new project called `quiz-app`.
+1. In your repos directory create a new project called `quiz-app`.
 
 2. View the image in this folder, `CSSQuiz.png`
 

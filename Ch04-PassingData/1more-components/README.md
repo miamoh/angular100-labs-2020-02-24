@@ -76,4 +76,4 @@
 
 ## Bonus
 
-If done before others, create a new from scratch application in your my-angular-course directory related to your own work, or an interest of yours. Ony use AppComponent to refer to a new component that you create. 
+If done before others, create a new from scratch application in the repos directory related to your own work, or an interest of yours. Ony use AppComponent to refer to a new component that you create. 

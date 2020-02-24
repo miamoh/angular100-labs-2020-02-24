@@ -24,7 +24,7 @@ These instructions will help you to setup a remote repository in GitHub that you
 ![](screenshots/git-add-origin.png)
 
 
-1.  and paste them into the command prompt in your my-angular-course directory.
+1.  and paste them into the command prompt in your my-angular-albums directory.
 ![](screenshots/git-add-remote.png)
 
 ### **Part 2 PUSHING CHANGES TO GITHUB**
